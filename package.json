@@ -1,0 +1,21 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "projeto para aprender como manipular elementos da web com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qaninja"
+  ],
+  "author": "vinicius tognoli",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.2.0",
+    "cypress-real-events": "^1.7.1"
+  }
+}
